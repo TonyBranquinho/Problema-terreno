@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\bin\Debug\Problema terreno.exe.config
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\bin\Debug\Problema terreno.exe
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\bin\Debug\Problema terreno.pdb
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\obj\Debug\Problema terreno.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\obj\Debug\Problema terreno.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\obj\Debug\Problema terreno.exe
+C:\temp\ws-vs2019\problema retangulo\Problema terreno\Problema terreno\Problema terreno\obj\Debug\Problema terreno.pdb
